@@ -3,6 +3,9 @@
 
 Branding things for [ECHQ](https://echq.org.uk)
 
+See fonts/ for the fonts.
+
+
 ## Artwork
 
 ECHQ-large.svg  
