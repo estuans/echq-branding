@@ -8,11 +8,11 @@ Branding things for [ECHQ](https://echq.org.uk)
 ECHQ-large.svg  
 <img src="images/ECHQ-large.png" width="400">
 
-ECHQ-text.svg
+ECHQ-text.svg  
 <img src="images/ECHQ-text.png" width="400">
 
-ECHQ-compact.svg
-<img src="images/ECHQ-compact.png" width="200">
+ECHQ-compact.svg  
+<img src="images/ECHQ-small.png" width="200">
 
 
 ## License
