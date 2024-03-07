@@ -20,6 +20,9 @@ ECHQ-compact.svg
 ECHQ-monitored-sticker.svg  
 <img src="images/ECHQ-monitored-sticker.png" width="200">
 
+ECHQ-monitored-sticker-inverted.svg  
+<img src="images/ECHQ-monitored-sticker-inverted.png" width="200">
+
 ## License
 
 Do what you like with it, but if the owner of a similar looking logo comes after you it wasn't us.
