@@ -17,6 +17,8 @@ ECHQ-text.svg
 ECHQ-compact.svg  
 <img src="images/ECHQ-small.png" width="200">
 
+ECHQ-monitored-sticker.svg
+<img src="images/ECHQ-monitored-sticker.png" width="200">
 
 ## License
 
